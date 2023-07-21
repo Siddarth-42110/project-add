@@ -3,5 +3,6 @@
 </head>
 <body>
 <h1>This is our project</h1>
+<p>Welcome to the project</p>
 </body
 <html>
